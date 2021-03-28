@@ -1,0 +1,7 @@
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\bin\Debug\Ejercicios1.exe.config
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\bin\Debug\Ejercicios1.exe
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\bin\Debug\Ejercicios1.pdb
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\obj\Debug\Ejercicios1.csprojAssemblyReference.cache
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\obj\Debug\Ejercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\obj\Debug\Ejercicios1.exe
+C:\Users\Sampini\source\repos\Ejercicios1-10\Ejercicios1\obj\Debug\Ejercicios1.pdb
